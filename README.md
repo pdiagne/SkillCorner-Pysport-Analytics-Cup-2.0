@@ -1,5 +1,5 @@
 # SkillCorner PySport Analytics Cup 2.0
-This repository contains the submission for the SkillCorner PySport Analytics Cup 2.0
+This repository contains my submission to the SkillCorner PySport Analytics Cup 2.0
 
 
 ## Python code to create/view dashboard
