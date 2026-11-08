@@ -11,8 +11,6 @@ I built an interactive Python/Tkinter dashboard that pulls raw tracking and even
 
 The dashboard features several key analytical tools:
 
-*Advanced Data Engineering: The pipeline (AC2_2.py) ingests dynamic event data to calculate passing metrics, Expected Possession Value (EPV), and phase-of-play volumes, while also merging match context (Referee, Pitch Dimensions) for further analysis.
-
 *Top/Bottom 5 Facet Grids: When multiple metrics are selected, the dashboard automatically generates a grid. For every metric, it displays the Top 5 positive and Bottom 5 negative Home-Away deltas for the selected team, alongside the same league-wide comparison.
 
 *Overlap Detection: A dedicated text panel identifies "Players in Both," highlighting when a team's worst-performing player on the road is also among the league's worst for that specific metric.
