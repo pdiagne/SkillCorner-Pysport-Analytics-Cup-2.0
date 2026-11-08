@@ -1,4 +1,4 @@
-# SkillCorner PySport Analytics Cup 2.0
+# SkillCorner PySport Analytics Cup 2.0 - Home vs. Away Dashboard
 This repository contains my submission to the SkillCorner PySport Analytics Cup 2.0
 
 
