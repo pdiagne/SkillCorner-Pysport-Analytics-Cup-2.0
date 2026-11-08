@@ -1,4 +1,6 @@
 # SkillCorner PySport Analytics Cup 2.0
+This repository contains the submission for the SkillCorner PySport Analytics Cup 2.0
+
 
 ## Python code to create/view dashboard
 Run setup_env.py to install all the relevant libraries.
